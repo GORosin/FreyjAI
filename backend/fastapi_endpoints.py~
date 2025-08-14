@@ -1,0 +1,10 @@
+
+
+def save_self_description(user_id,description):
+    pass
+
+def save_partner_description(user_id,description):
+    pass
+
+def get_best_match(user_id):
+    pass
